@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "5b6304f7376238006d23094b1e8aebb17c488acc",
+    "author": "Andrea Gilardi <andrea.gilardi@unimib.it>",
+    "time": "2021-07-13 14:08:40",
+    "files": 1,
+    "merge": false,
+    "message": "update news, skip-ci\n"
+  },
+  "remote": "https://github.com/ropensci/osmextract",
+  "pkg": "osmextract"
+}
