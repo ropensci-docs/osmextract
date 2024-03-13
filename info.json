@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "20742aa0296c6a5c1c9e15bf587fc9a6e657b82e",
+    "author": "Andrea Gilardi <andrea.gilardi@polimi.it>",
+    "time": "2023-08-11 07:09:51",
+    "files": 2,
+    "merge": false,
+    "message": "Increment version number to 0.5.0.9000\n"
+  },
+  "repo": "https://github.com/ropensci/osmextract",
+  "pkg": "osmextract"
+}
