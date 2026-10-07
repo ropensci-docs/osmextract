@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "cc410dfd7d29d11f1849c1b196a4f5d3d6535a35",
+    "author": "Andrea Gilardi <andrea.gilardi@unimib.it>",
+    "time": "2026-10-05T20:41:43Z",
+    "files": 1,
+    "merge": false,
+    "message": "add oe_warning (same ideas as oe_stop)\n"
+  },
+  "repo": "https://github.com/ropensci/osmextract",
+  "pkg": "osmextract",
+  "time": "2026-10-07T08:24:55Z"
+}
