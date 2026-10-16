@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "cd2089e5701bb769de9d0684ee6b288b7c201262",
+    "author": "Andrea Gilardi <andrea.gilardi@unimib.it>",
+    "time": "2026-10-16T16:00:10Z",
+    "files": 1,
+    "merge": false,
+    "message": "update roxygen version\n\nskip ci\n"
+  },
+  "repo": "https://github.com/ropensci/osmextract",
+  "pkg": "osmextract",
+  "time": "2026-10-16T17:39:21Z"
+}
